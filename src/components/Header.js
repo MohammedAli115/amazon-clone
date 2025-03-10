@@ -23,7 +23,7 @@ function Header() {
                 <div className="collapse navbar-collapse" id="navbarNav">
                     <ul className="navbar-nav ms-auto">
                         <li className="nav-item">
-                            <Link className="nav-link text-white" aria-current="page" to="#" style={{whiteSpace : "nowrap"}}>Sign In </Link>
+                            <Link className="nav-link text-white" aria-current="page" to="login" style={{whiteSpace : "nowrap"}}>Sign In </Link>
                         </li>
                         <li className="nav-item">
                             <Link className="nav-link text-white" to="#">Features</Link>
